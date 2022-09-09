@@ -13,6 +13,10 @@ mensaje de bienvenida y se realice una iteración para renderizar un parcial
 5. Consumir los códigos fuentes de Bootstrap y jQuery a través de rutas o middlewares
 creados en el servidor. Estas dependencias deben ser instaladas con NPM
 
-**************
+*******************************
 Integrantes: Romina Rios
-             Elizabeth 
+             Elizabeth Ramirez
+             Cristian Torres
+             Jorge Leiva
+             Daniela Saavedra
+*******************************
